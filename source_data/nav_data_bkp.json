@@ -1,0 +1,138 @@
+{
+  "tabs": [
+    {
+      "name": "Angular",
+      "links": [
+        {
+          "linktext": "Angular Basics",
+          "linkshort": "angular-basics"
+        },
+        {
+          "linktext": "Angular Controllers",
+          "linkshort": "angular-controller"
+        },
+        {
+          "linktext": "Angular Directives",
+          "linkshort": "angular-directives"
+        }
+      ]
+    },
+    {
+      "name": "Css",
+      "links": [
+        {
+          "linktext": "Css Fundamentals",
+          "linkshort": "css-fundamentals"
+        },
+        {
+          "linktext": "Css Typography",
+          "linkshort": "css-typography"
+        },
+        {
+          "linktext": "Css BoxModel",
+          "linkshort": "css-boxmodel"
+        },
+        {
+          "linktext": "Css Layouts",
+          "linkshort": "css-layouts"
+        },
+        {
+          "linktext": "Css Responsive Web Design",
+          "linkshort": "css-responsivewebdesign"
+        }
+      ]
+    },
+        {
+      "name": "CQ",
+      "links": [
+        {
+          "linktext": "Http Basics",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Html Fundamentals",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Structure & Semantics",
+          "linkshort": "basics"
+        }
+      ]
+    },
+    {
+      "name": "Html",
+      "links": [
+        {
+          "linktext": "Http Basics",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Html Fundamentals",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Html Structure & Semantics",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Html Forms",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Html Audio & Video",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Html Create Email",
+          "linkshort": "basics"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "links": [
+        {
+          "linktext": "Http Basics",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Html Fundamentals",
+          "linkshort": "basics"
+        },
+        {
+          "linktext": "Structure & Semantics",
+          "linkshort": "basics"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "links": [
+        {
+          "linktext": "BowerBasics",
+          "linkshort": "tools-bower-baiscs"
+        },
+        {
+          "linktext": "Git Hub Basics",
+          "linkshort": "tools-github-basics"
+        },
+        {
+          "linktext": "Grunt Basics",
+          "linkshort": "tools-grunt-basics"
+        },
+        {
+          "linktext": "Gulp Basics",
+          "linkshort": "tools-gulp-basics"
+        },
+        {
+          "linktext": "NPM Basics",
+          "linkshort": "tools-npm-basics"
+        },
+        {
+          "linktext": "Yeoman Basics",
+          "linkshort": "tools-yeoman-basics"
+        }
+      ]
+    }
+  ]
+}

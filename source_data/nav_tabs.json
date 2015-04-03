@@ -1,0 +1,88 @@
+{
+  "tabs": [
+    {
+      "name": "Css",
+      "links": [
+        {
+          "linktext": "Css Fundamentals",
+          "linkshort": "css-fundamentals"
+        },
+        {
+          "linktext": "Css Typography",
+          "linkshort": "css-typography"
+        },
+        {
+          "linktext": "Css BoxModel",
+          "linkshort": "css-boxmodel"
+        },
+        {
+          "linktext": "Css Layouts",
+          "linkshort": "css-layouts"
+        },
+        {
+          "linktext": "Css Responsive Web Design",
+          "linkshort": "css-responsivewebdesign"
+        }
+      ]
+    },
+    {
+      "name": "Html",
+      "links": [
+        {
+          "linktext": "Http Basics",
+          "linkshort": "http-basics"
+        },
+        {
+          "linktext": "Html Fundamentals",
+          "linkshort": "html-fundamentals"
+        },
+        {
+          "linktext": "Html Structure & Semantics",
+          "linkshort": "html-structure-semantics"
+        },
+        {
+          "linktext": "Html Forms",
+          "linkshort": "html-forms"
+        },
+        {
+          "linktext": "Html Audio & Video",
+          "linkshort": "html-audio-video"
+        },
+        {
+          "linktext": "Html Create Email",
+          "linkshort": "html-create-email"
+        }
+      ]
+    },
+
+    {
+      "name": "Tools",
+      "links": [
+        {
+          "linktext": "BowerBasics",
+          "linkshort": "tools-bower-baiscs"
+        },
+        {
+          "linktext": "Git Hub Basics",
+          "linkshort": "tools-github-basics"
+        },
+        {
+          "linktext": "Grunt Basics",
+          "linkshort": "tools-grunt-basics"
+        },
+        {
+          "linktext": "Gulp Basics",
+          "linkshort": "tools-gulp-basics"
+        },
+        {
+          "linktext": "NPM Basics",
+          "linkshort": "tools-npm-basics"
+        },
+        {
+          "linktext": "Yeoman Basics",
+          "linkshort": "tools-yeoman-basics"
+        }
+      ]
+    }
+  ]
+}
